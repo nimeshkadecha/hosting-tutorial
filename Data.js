@@ -1,5 +1,5 @@
 const data = {
-  Name: "John Doe",
+  Name: "Nimesh kadecha",
   Role: "Frontend Developer",
   Description:
     "I am a professional <strong>UX Designer</strong> and <strong>Front-End Developer</strong> creating modern and responsive designs for <strong>Web</strong> and <strong>Mobile</strong>. Let us work together. Thank you.",
@@ -16,17 +16,17 @@ const data = {
   Work3Description:
     "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna.",
 
-  Email: "test@gmail.com",
-  Number: "+91 1234567891",
+  Email: "nimeshkadecha4560@gmail.com",
+  Number: "+91 6355116610",
   BirthDate: "September 9, 2004",
   Address: "xyz street 260004, Rajkot, Gujarat",
-  Website: "www.xyz.com",
+  Website: "www.nimeshkadecha.netlify.app",
 
   SkillDescription:
     "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna aliquam erat volutpat.",
-  Skill1: ["HTML5", "90%"],
-  Skill2: ["BootStrap", "70%"],
-  Skill3: ["SEO", "60%"],
+  Skill1: ["HTML5", "100%"],
+  Skill2: ["BootStrap", "50%"],
+  Skill3: ["SEO", "30%"],
 
   InstagramLink: "",
   LinkedInLink: "",
